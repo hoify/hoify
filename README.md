@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td align="left" width="120">
-      <img src="apps/web/public/logo.png" alt="OpenCut Logo" width="100" />
+      <img src="apps/web/public/logo.png" alt="HoiFyCUT Logo" width="100" />
     </td>
     <td align="right">
-      <h1>OpenCut <span style="font-size: 0.7em; font-weight: normal;">(prev AppCut)</span></h1>
+      <h1>HoiFyCUT <span style="font-size: 0.7em; font-weight: normal;">(prev AppCut)</span></h1>
       <h3 style="margin-top: -10px;">A free, open-source video editor for web, desktop, and mobile.</h3>
     </td>
   </tr>
@@ -22,7 +22,7 @@
 - Multi-track support
 - Real-time preview
 - No watermarks or subscriptions
-- Analytics provided by [Databuddy](https://www.databuddy.cc?utm_source=opencut), 100% Anonymized & Non-invasive.
+- Analytics provided by [Databuddy](https://www.databuddy.cc?utm_source=HoiFyCUT), 100% Anonymized & Non-invasive.
 
 ## Project Structure
 
